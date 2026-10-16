@@ -72,9 +72,9 @@ A `risk\_db` database with six tables, primary and foreign keys, and typed colum
 
 ## Overview
 
-(dashboard/overview_01.png)
+![Overview](dashboard/overview_01.png)
 
-(dashboard/overview_02.png)
+![Overview](dashboard/overview_02.png)
 
 ## Repository
 
