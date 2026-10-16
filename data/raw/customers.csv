@@ -1,0 +1,257 @@
+﻿customer_id,customer_name,country,billing_currency,industry,credit_rating,credit_limit_inr,payment_terms_days,onboarding_date
+C0001,Alpine Construction Industries Ltd,India,INR,Construction,BBB,7500000,45,08-07-2020
+C0002,Sahyadri Textiles Enterprises Pvt Ltd,India,INR,Packaging,BBB,28950000,45,05-01-2015
+C0003,Danube Industrial Plastics LLP,India,INR,Packaging,B,15500000,45 days,03-08-2016
+C0004,Aarav FMCG Plastics LLP,India,INR,FMCG,BBB,114250000,45,05-03-2018
+C0005,Everest Agri Products Enterprises Pvt Ltd,India,INR,Industrial,BBB,63550000,30,19-04-2022
+C0006,Danube Packaging GmbH,Germany,EUR,Industrial,A,98150000,30,05-10-2016
+C0007,Titan Packaging Inc,US,USD,Auto Components,BB,42200000,30,07-05-2020
+C0008,Meridian Agri Products Industries Ltd,India,INR,Electricals,A,"2,70,50,000",90,26-01-2018
+C0009,Gateway Healthcare Industries Ltd,India,INR,Textiles,AA,126700000,60,07-06-2022
+C0010,Titan Industrial Co. Ltd,Vietnam,USD,Textiles,BBB,43800000,60,05-04-2023
+C0011,Titan Electricals Industries Ltd,India,INR,Packaging,BB,35350000,45,16-11-2015
+C0012,Harbor Industrial SAS,France,EUR,Auto Components,,9500000,60,13-07-2019
+C0013,Zenith FMCG Pte Ltd,Singapore,USD,Consumer Goods,BBB,36200000,45,14-01-2021
+C0014,Aarav Electricals S.p.A.,Italy,EUR,Industrial,,58450000,45,14-07-2018
+C0015,Baltic Consumer Goods Enterprises Pvt Ltd,India,INR,Agri Products,AA,"4,13,00,000.00",60,12-04-2019
+C0016,Fjord Auto Components Polymers Pvt Ltd,India,INR,Agri Products,BBB,32300000,30,05-03-2017
+C0017,Elbe Industrial Trading FZE,UAE,USD,Agri Products,A,25000000,60,19-12-2021
+C0018,Lakeshore Electricals Polymers Pvt Ltd,India,INR,Electricals,BBB,24800000,30,18-08-2021
+C0019,Redwood Textiles GmbH,Germany,EUR,Consumer Goods,BB,0,90,18-06-2018
+C0020,Maple Construction Co. Ltd,Vietnam,USD,Agri Products,CCC,10200000,90,09-04-2016
+C0021,Zephyr FMCG Inc,USA,USD,Healthcare,A,"2,79,50,000.00",90,26-05-2018
+C0022,Harbor Textiles Industries Ltd,India,INR,Auto Components,BBB,27450000,30,21-08-2018
+C0023,Udaya Auto Components Industries Ltd,India,INR,Auto Components,CCC,5850000,45,31-10-2022
+C0024,Xenon Textiles Industries Ltd,India,INR,Electricals,AA,"4,76,50,000.00",30,29-05-2020
+C0025,Lotus FMCG Pte Ltd,Singapore,USD,Healthcare,BB,64550000,45,08-09-2021
+C0026,Pacific Consumer Goods Plastics LLP,IN,INR,Healthcare,BBB,39350000,30,21-01-2016
+C0027,Udaya Agri Products Ltd,Bangladesh,USD,FMCG,BBB,9250000,60,04-03-2015
+C0028,Rajdhani Consumer Goods Enterprises Pvt Ltd,India,INR,Consumer Goods,,58400000,30,04-07-2015
+C0029,Quartz Healthcare Polymers Pvt Ltd,India,INR,Textiles,,50800000,90,02-04-2020
+C0030,Cedar FMCG Industries Ltd,India,INR,Agri Products,bbb,42850000,60,01-02-2016
+C0031,Sahyadri Electricals Plastics LLP,India,INR,Textiles,AAA,94450000,90,10-05-2015
+C0032,Quartz Industrial Plastics LLP,India,INR,Textiles,A,44500000,60,02-05-2018
+C0033,Horizon Electricals Ltd,Bangladesh,USD,Industrial,B,21900000,90,17-04-2019
+C0034,Udaya Consumer Goods Industries Ltd,India,INR,Healthcare,BBB,13300000,45,12-08-2019
+C0035,Lotus Healthcare Enterprises Pvt Ltd,INDIA,INR,Agri Products,A,23150000,45,06-08-2018
+C0036,Xenon FMCG Polymers Pvt Ltd,India,INR,Auto Components,A,"3,93,50,000",Net 45,12-08-2020
+C0037,Keystone Healthcare Plastics LLP,india ,INR,Industrial,AA,95400000,30,08-03-2016
+C0038,Nilgiri Industrial Polymers Pvt Ltd,India,INR,FMCG,,29600000,60,11-12-2021
+C0039,Iberia Auto Components Polymers Pvt Ltd,India,INR,Electricals,BBB,89300000,60,06-01-2022
+C0040,Elbe Industrial BV,Netherlands,EUR,Electricals,BBB,61650000,30,10-03-2020
+C0041,Northstar Auto Components Plastics LLP,India,INR,Consumer Goods,BBB,14600000,45,31-10-2018
+C0042,Delta Industrial GmbH,Germany,EUR,Industrial,B,11650000,60,19-10-2021
+C0043,Nilgiri FMCG Enterprises Pvt Ltd,India,INR,Consumer Goods,BBB,46800000,45,30-08-2016
+C0044,Oasis Textiles Plastics LLP,India,INR,FMCG,,16200000,90,31-03-2021
+C0045,Juniper Consumer Goods Enterprises Pvt Ltd,India,INR,Packaging,AA,22600000,45,26-09-2018
+C0046,Baltic Packaging Industries Ltd,india ,INR,Auto Components,AA,65000000,Net 30,16-11-2021
+C0047,Aarav Industrial General Trading LLC,UAE,USD,Agri Products,AA,88650000,90,23-08-2022
+C0048,Zephyr Construction Industries Ltd,india ,INR,Healthcare,B,0,45,02-09-2015
+C0049,Meridian Packaging Enterprises Pvt Ltd,India,INR,Industrial,AAA,218650000,30,26-10-2020
+C0050,Aarav Agri Products Plastics LLP,India,INR,Auto Components,A,202900000,60,28-07-2019
+C0051,Harbor Auto Components S.p.A.,Italy,EUR,Textiles,A,"4,89,50,000.00",60,08-11-2022
+C0052,Unity Construction Plastics LLP,India,INR,Packaging,,102450000,30,30-06-2020
+C0053,Everest Healthcare GmbH,Germany,EUR,Construction,A,43150000,60,14-11-2021
+C0054,Ganga Auto Components GmbH,Deutschland,EUR,FMCG,A,95300000,60,04-03-2021
+C0055,Indus Industrial Industries Ltd,India,INR,FMCG,A,60000000,45,07-03-2018
+C0056,Yamuna Healthcare Industries Ltd,India,INR,Construction,BBB,52350000,60D,17-04-2016
+C0057,Yamuna Industrial Industries Ltd,India,INR,Industrial,aa ,-5000000,30,05-10-2021
+C0058,Vista Textiles Enterprises Pvt Ltd,IN,INR,Packaging,BBB,29800000,30,07-05-2022
+C0059,Harbor Packaging Polymers Pvt Ltd,India,INR,Consumer Goods,A,86550000,30,04-10-2018
+C0060,Quantum Electricals Polymers Pvt Ltd,India,INR,Auto Components,A,139200000,45,12-08-2016
+C0061,Delta Auto Components Plastics LLP,India,INR,Electricals,AA,53200000,90,22-03-2017
+C0062,Northstar Textiles Co. Ltd,Vietnam,USD,FMCG,BBB,19550000,60,27-11-2018
+C0063 ,Baltic Healthcare Plastics LLP,India,INR,Healthcare,A,67750000,60,17-01-2019
+C0064,Keystone Agri Products Co. Ltd,Vietnam,USD,Textiles,AA,41600000,90,14-02-2021
+C0065 ,Vertex Auto Components Industries Ltd,INDIA,INR,Electricals,AAA,106900000,30,29-07-2018
+C0066,Juniper Consumer Goods Polymers Pvt Ltd,india ,INR,Construction,BBB,55250000,30,25-10-2018
+C0067,Jupiter Construction GmbH,Germany,EUR,FMCG,BB,6750000,45,21-02-2018
+C0068,Redwood Auto Components Enterprises Pvt Ltd,India,INR,FMCG,BB,"₹ 1,50,50,000",60,22-08-2015
+C0069,Kaveri Electricals Polymers Pvt Ltd,India,INR,Packaging,BB,46100000,30,03-10-2018
+C0070 ,Northstar Construction Polymers Pvt Ltd,India,INR,Industrial,BBB,47350000,45,13-01-2016
+C0071,Meridian Construction Trading FZE,UAE,USD,Textiles,CCC,9100000,60,22-08-2018
+C0072,Nilgiri Construction BV,Netherlands,EUR,FMCG,A,77100000,90,11-01-2017
+C0073 ,Udaya Agri Products General Trading LLC,U.A.E,USD,Auto Components,BB,"10,40,50,000.00",30,14-08-2019
+C0074,Quartz Packaging Plastics LLP,India,INR,Consumer Goods,BBB,22150000,30,21-10-2018
+C0075,Jupiter Agri Products Plastics LLP,India,INR,Textiles,BB,28650000,30,29-06-2020
+C0076 ,Iberia Electricals Plastics LLP,INDIA,INR,Industrial,B,16200000,60,09-10-2016
+C0077,Lakeshore FMCG Industries Ltd,India,INR,Packaging,AA,61150000,60D,12-05-2016
+C0078,Alpine Electricals Polymers Pvt Ltd,IN,INR,Electricals,AAA,102450000,45,15-07-2017
+C0079,Northstar Textiles Pte Ltd,Singapore,USD,Construction,A,"₹ 2,39,00,000",90,27-08-2020
+C0080,Ganga Agri Products Polymers Pvt Ltd,India,INR,Construction,BBB,47850000,60,18-04-2022
+C0081,Harbor Construction Polymers Pvt Ltd,IN,INR,FMCG,,37700000,30,20-04-2016
+C0082,Quantum Auto Components Enterprises Pvt Ltd,India,INR,Agri Products,bbb,64950000,60,22-10-2018
+C0083,Summit Auto Components Plastics LLP,India,INR,Construction,BB,36800000,45,16-07-2019
+C0084,Aarav FMCG Enterprises Pvt Ltd,India,INR,Agri Products,AA,103150000,45,09-09-2016
+C0085,Aarav FMCG BV,Netherlands,EUR,Agri Products,AA,48400000,90,05-08-2019
+C0086,Willow Agri Products Plastics LLP,India,INR,Healthcare,BB,8600000,45,24-08-2022
+C0087,Willow Electricals BV,Netherlands,EUR,Industrial,aa,64700000,45,07-08-2017
+C0088,Vertex FMCG Polymers Pvt Ltd,India,INR,Textiles,CCC,3450000,45,16-06-2022
+C0089,Delta Packaging Ltd,Bangladesh,USD,Electricals,BBB,22750000,90,30-07-2021
+C0090,Gateway Industrial S.p.A.,Italy,EUR,Consumer Goods,BB,29550000,90,16-09-2021
+C0091,Quantum Electricals Co. Ltd,Vietnam,USD,Healthcare,BBB,89550000,60,09-02-2019
+C0092,Kaveri Industrial Plastics LLP,India,INR,Textiles,A,21300000,30,07-10-2017
+C0093,Quantum Packaging Ltd,Bangladesh,USD,Consumer Goods,B,7350000,60,11-08-2017
+C0094,Meridian Industrial Industries Ltd,INDIA,INR,Packaging,,39650000,45,04-07-2022
+C0095,Orion Agri Products Plastics LLP,India,INR,Consumer Goods,bbb,40100000,45,10-06-2023
+C0096,Quartz FMCG LLC,USA,USD,Textiles,BB,"₹ 1,09,00,000",60,22-10-2015
+C0097,Sahyadri Packaging Plastics LLP,India,INR,Industrial,AAA,58700000,45,02-01-2021
+C0098,Kaveri Textiles Polymers Pvt Ltd,India,INR,FMCG,BBB,34450000,90,16-12-2022
+C0099,Kaveri Construction BV,Netherlands,EUR,Construction,BBB,129050000,60,15-11-2022
+C0100 ,Oasis Packaging Ltd,Bangladesh,USD,Packaging,BBB,25700000,60,13-03-2017
+C0101,Jupiter Agri Products Co. Ltd,Vietnam,USD,FMCG,BB,23400000,60,10-08-2018
+C0102,Yamuna Industrial Ltd,Bangladesh,USD,Construction,B,11200000,60,01-10-2019
+C0103,Unity Healthcare Polymers Pvt Ltd,INDIA,INR,Agri Products,BBB,72650000,60 days,03-08-2016
+C0104,Unity FMCG Polymers Pvt Ltd,India,INR,Construction,BBB,11750000,30,12-03-2023
+C0105,Horizon Packaging Industries Ltd,India,INR,Consumer Goods,BBB,"2,02,50,000",90,06-08-2018
+C0106,Titan Textiles Trading FZE,U.A.E,USD,Auto Components,AAA,128050000,45,18-09-2019
+C0107,Coastal Auto Components Industries Ltd,India,INR,Auto Components,B,18150000,Net 30,03-10-2017
+C0108,Vista Auto Components Polymers Pvt Ltd,INDIA,INR,Agri Products,AA,97100000,45,20-10-2020
+C0109,Horizon Healthcare Enterprises Pvt Ltd,India,INR,Agri Products,BBB,83700000,45,08-12-2019
+C0110,Jupiter Electricals Pte Ltd,Singapore,USD,Healthcare,BB,33100000,60,17-01-2019
+C0111,Keystone Textiles S.p.A.,Italy,EUR,Construction,BB,117450000,90,07-11-2018
+C0112,Meridian Packaging Plastics LLP,India,INR,Textiles,CCC,4600000,45,09-11-2021
+C0113,Bharat FMCG Industries Ltd,India,INR,Agri Products,AA,42200000,Net 90,20-01-2023
+C0114,Horizon Auto Components Plastics LLP,India,INR,Packaging,B,0,60,10-03-2021
+C0115,Quantum Auto Components GmbH,Germany,EUR,Consumer Goods,b,17300000,60,11-07-2022
+C0116,Cedar Consumer Goods Enterprises Pvt Ltd,india ,INR,FMCG,BB,23600000,45D,16-03-2016
+C0117,Quantum Textiles Plastics LLP,India,INR,Consumer Goods,BBB,26550000,45,02-12-2016
+C0118,Pacific Auto Components Polymers Pvt Ltd,India,INR,Construction,BBB,37500000,60,07-02-2017
+C0119,Keystone Construction Polymers Pvt Ltd,India,INR,Industrial,aa,60450000,60,28-04-2022
+C0120,Unity Electricals LLC,USA,USD,Healthcare,BBB,10450000,60,15-12-2018
+C0121,Ganga FMCG Industries Ltd,India,INR,Consumer Goods,AA,60650000,60,09-12-2017
+C0122,Pioneer Electricals BV,Netherlands,EUR,Consumer Goods,BBB,13400000,45,09-12-2016
+C0123,Lotus Textiles Ltd,Bangladesh,USD,Electricals,,34950000,60,24-11-2018
+C0124,Jupiter Electricals Industries Ltd,India,INR,Textiles,BBB,17600000,30,02-10-2020
+C0125,Xenon Industrial Industries Ltd,India,INR,Healthcare,A,49100000,45,13-06-2017
+C0126,Ganga Healthcare BV,Netherlands,EUR,Packaging,BBB,17450000,60,24-04-2020
+C0127,Titan Electricals Enterprises Pvt Ltd,India,INR,Electricals,CCC,9250000,60,11-08-2016
+C0128,Meridian Agri Products Enterprises Pvt Ltd,India,INR,Electricals,BBB,56250000,30,03-08-2015
+C0129,Nilgiri FMCG GmbH,Germany,EUR,Construction,AAA,67950000,60,23-03-2018
+C0130,Delta Electricals Industries Ltd,India,INR,Industrial,AAA,72300000,30 days,21-12-2019
+C0131,Orion Textiles Industries Ltd,India,INR,FMCG,A,"₹ 7,13,00,000",90,25-04-2022
+C0132,Cedar Industrial LLC,US,USD,Industrial,AA,"2,64,50,000",90,07-09-2020
+C0133,Orion Industrial General Trading LLC,UAE,USD,Construction,BBB,41450000,90,09-10-2020
+C0134,Iberia Healthcare Plastics LLP,India,INR,Construction,A,46900000,90,20-04-2023
+C0135,Quantum Consumer Goods S.p.A.,Italy,EUR,Textiles,BB,14650000,60,31-03-2021
+C0136,Zenith Textiles Polymers Pvt Ltd,India,INR,FMCG,AAA,"6,11,00,000.00",60,24-02-2016
+C0137,Nilgiri Consumer Goods Ltd,Bangladesh,USD,Industrial,B,8750000,60,04-08-2017
+C0138,Redwood Packaging Enterprises Pvt Ltd,India,INR,Textiles,A,72350000,30,25-06-2023
+C0139,Rajdhani Electricals Pte Ltd,Singapore,USD,Packaging,BB,26500000,60,29-03-2021
+C0140,Nilgiri Industrial Enterprises Pvt Ltd,India,INR,FMCG,B,9000000,45,28-04-2019
+C0141,Everest Auto Components Polymers Pvt Ltd,india ,INR,Construction,BBB,86850000,60,14-11-2020
+C0142,Bharat Consumer Goods SAS,France,EUR,Packaging,BBB,"₹ 2,01,00,000",60,10-04-2021
+C0143,Orion Construction Enterprises Pvt Ltd,India,INR,Industrial,BB,16250000,30,17-11-2022
+C0144,Sahyadri Electricals Polymers Pvt Ltd,India,INR,Textiles,A,"₹ 8,66,00,000",45,08-02-2019
+C0145,Nilgiri Healthcare GmbH,Germany,EUR,Construction,BBB,10500000,60,11-08-2015
+C0146,Vista Packaging Pte Ltd,Singapore,USD,Construction,AA,233250000,60,17-06-2020
+C0147,Ganga Healthcare Polymers Pvt Ltd,india ,INR,Textiles,BBB,53000000,90,11-05-2022
+C0148,Oasis Packaging Plastics LLP,INDIA,INR,Construction,A,63900000,30,14-12-2015
+C0149,Iberia Textiles Enterprises Pvt Ltd,India,INR,Healthcare,AAA,101650000,45,04-04-2015
+C0150,Willow Healthcare Inc,U.S.A,USD,Construction,A,14200000,60,23-03-2022
+C0151,Nilgiri Auto Components Industries Ltd,India,INR,Packaging,A,55050000,30 days,04-12-2020
+C0152,Gateway Agri Products Plastics LLP,INDIA,INR,Industrial,AA,45400000,60,17-09-2018
+C0153,Keystone Industrial Enterprises Pvt Ltd,India,INR,Industrial,A,78800000,90,18-12-2021
+C0154,Elbe FMCG Enterprises Pvt Ltd,India,INR,Industrial,B,8550000,45,29-04-2023
+C0155,Jupiter Construction Pte Ltd,Singapore,USD,Packaging,A,24450000,60,10-09-2022
+C0156,Danube Textiles Pte Ltd,Singapore,USD,Construction,A,49000000,45,03-12-2022
+C0157,Orion FMCG Plastics LLP,INDIA,INR,Electricals,BBB,11100000,60,03-07-2017
+C0158,Zephyr Packaging Plastics LLP,India,INR,Electricals,a,40200000,60,23-10-2020
+C0159,Ganga Textiles Industries Ltd,IN,INR,Textiles,A,"2,72,00,000",45,24-02-2020
+C0160,Horizon FMCG Plastics LLP,India,INR,Consumer Goods,BB,7800000,45,10-06-2019
+C0161,Willow Agri Products General Trading LLC,UAE,USD,Packaging,BBB,47250000,90,12-02-2017
+C0162,Quartz Auto Components Polymers Pvt Ltd,India,INR,Agri Products,B,15300000,30,06-10-2017
+C0163,Indus Construction SAS,France,EUR,Agri Products,BBB,22050000,60,10-06-2021
+C0164,Gateway FMCG Pte Ltd,Singapore,USD,Agri Products,BBB,66750000,60,09-01-2018
+C0165,Cedar Construction LLC,USA,USD,Construction,AAA,157650000,30,15-07-2018
+C0166,Zenith Construction Polymers Pvt Ltd,India,INR,Electricals,BB,53500000,90,25-10-2022
+C0167,Zenith Consumer Goods Enterprises Pvt Ltd,IN,INR,Consumer Goods,BBB,9400000,30,21-11-2018
+C0168,Yamuna Consumer Goods Plastics LLP,India,INR,Consumer Goods,A,32150000,60,09-11-2021
+C0169,Danube Auto Components GmbH,Germany,EUR,Textiles,A,75250000,45,20-04-2021
+C0170,Pacific FMCG Enterprises Pvt Ltd,India,INR,Construction,BBB,36500000,60,28-04-2021
+C0171,Sahyadri Agri Products Co. Ltd,Vietnam,USD,Electricals,BBB,46350000,90,18-05-2018
+C0172,Cedar Healthcare Plastics LLP,IN,INR,Electricals,BBB,20900000,30,27-08-2022
+C0173,Redwood Industrial S.p.A.,Italy,EUR,Electricals,BBB,54700000,60,25-06-2019
+C0174,Harbor Agri Products SAS,France,EUR,Agri Products,BBB,17600000,45,14-09-2021
+C0175,Rajdhani Electricals Enterprises Pvt Ltd,India,INR,FMCG,BB,8750000,60,16-03-2017
+C0176,Udaya FMCG Industries Ltd,India,INR,Auto Components,BBB,"2,98,00,000",30,03-11-2021
+C0177 ,Gateway Agri Products S.p.A.,Italy,EUR,Industrial,AA,179250000,60,22-09-2017
+C0178,Tidewater FMCG Industries Ltd,India,INR,Packaging,BB,7550000,60D,21-05-2017
+C0179,Lotus Agri Products Enterprises Pvt Ltd,India,INR,Consumer Goods,CCC,3850000,30,20-06-2021
+C0180,Quantum Consumer Goods Co. Ltd,Vietnam,USD,Industrial,,12300000,45,04-07-2015
+C0181,Rajdhani Industrial Plastics LLP,India,INR,Agri Products,BBB,46500000,60,06-09-2022
+C0182,Pioneer Construction Plastics LLP,India,INR,Packaging,A,33450000,60,13-05-2020
+C0183,Summit Consumer Goods Industries Ltd,India,INR,Packaging,A,130100000,90,10-09-2019
+C0184,Pioneer Textiles Industries Ltd,India,INR,FMCG,B,5800000,45,03-05-2018
+C0185,Delta Industrial Industries Ltd,India,INR,Construction,BBB,23900000,60,25-02-2019
+C0186,Kaveri Agri Products Trading FZE,United Arab Emirates,USD,Healthcare,A,30900000,45,31-10-2017
+C0187,Alpine Industrial Enterprises Pvt Ltd,India,INR,Auto Components,a,33000000,45,25-04-2018
+C0188,Northstar FMCG Polymers Pvt Ltd,India,INR,Textiles,BBB,21800000,45,22-12-2021
+C0189,Western Packaging Polymers Pvt Ltd,India,INR,Agri Products,B,22150000,45,11-01-2022
+C0190 ,Sahyadri FMCG Plastics LLP,India,INR,Consumer Goods,AA,42400000,30,29-03-2015
+C0191,Lakeshore FMCG BV,Netherlands,EUR,Consumer Goods,AAA,55050000,45,10-01-2021
+C0192,Titan Healthcare S.p.A.,Italy,EUR,Consumer Goods,BBB,32800000,90,19-08-2020
+C0193,Redwood Healthcare SAS,France,EUR,Healthcare,BBB,33050000,45,21-11-2016
+C0194,Ganga Electricals Industries Ltd,India,INR,Agri Products,A,10850000,60,19-06-2023
+C0195,Sahyadri Auto Components SAS,France,EUR,Industrial,A,26900000,60,04-01-2015
+C0196,Alpine Construction Co. Ltd,Vietnam,USD,Consumer Goods,AAA,82100000,90,18-02-2016
+C0197,Baltic FMCG Enterprises Pvt Ltd,India,INR,Industrial,,63800000,45,10-10-2022
+C0198,Alpine Healthcare Pte Ltd,Singapore,USD,Packaging,BB,79550000,45,21-12-2020
+C0199,Unity Consumer Goods LLC,USA,USD,Construction,BBB,25500000,60,23-10-2020
+C0200,Maple Auto Components GmbH,Germany,EUR,Textiles,A,26000000,60,30-10-2017
+C0201,Juniper Textiles Industries Ltd,IN,INR,Agri Products,BB,32350000,60,31-03-2022
+C0202,Kaveri FMCG Co. Ltd,Vietnam,USD,Industrial,AA,123800000,45,27-09-2022
+C0203,Zenith Industrial Plastics LLP,India,INR,Industrial,BBB,41150000,45,25-11-2019
+C0204,Lakeshore Agri Products Pte Ltd,Singapore,USD,Textiles,BB,9150000,90,18-01-2015
+C0205,Horizon Industrial Industries Ltd,India,INR,Auto Components,BBB,29600000,30,17-08-2016
+C0206,Willow Consumer Goods Industries Ltd,India,INR,Industrial,BBB,17950000,45,19-10-2020
+C0207,Lakeshore Packaging Polymers Pvt Ltd,India,INR,Textiles,A,110050000,60,19-02-2022
+C0208,Pioneer Industrial Plastics LLP,India,INR,Textiles,B,7400000,60,31-07-2017
+C0209,Baltic Construction Industries Ltd,India,INR,Auto Components,BBB,18250000,90,29-06-2017
+C0210,Falcon Healthcare Pte Ltd,Singapore,USD,FMCG,A,26450000,45,21-02-2020
+C0211,Gateway Packaging Enterprises Pvt Ltd,India,INR,Industrial,BB,45250000,45,22-01-2020
+C0212,Indus Textiles Industries Ltd,India,INR,Industrial,AA,141550000,90,09-04-2015
+C0213,Rajdhani Electricals S.p.A.,Italy,EUR,Textiles,AAA,389650000,60,18-04-2023
+C0214,Vista Construction Industries Ltd,India,INR,Construction,AA,90250000,30,28-10-2017
+C0215,Western Construction Co. Ltd,Vietnam,USD,Healthcare,A,54350000,30,12-07-2022
+C0216,Northstar Consumer Goods Pte Ltd,Singapore,USD,Consumer Goods,BBB,61950000,60,21-03-2020
+C0217,Maple Textiles Trading FZE,UAE,USD,Healthcare,BBB,21600000,90,03-03-2021
+C0218,Vista Industrial Plastics LLP,India,INR,Agri Products,BB,"3,55,00,000",45,14-09-2016
+C0219,Summit Agri Products Enterprises Pvt Ltd,India,INR,Healthcare,A,51350000,30,10-02-2020
+C0220,Juniper Electricals Enterprises Pvt Ltd,India,INR,Agri Products,BBB,27800000,30,02-09-2015
+C0221,Udaya Textiles Enterprises Pvt Ltd,India,INR,Auto Components,BB,46950000,60,24-07-2022
+C0222,Rajdhani FMCG GmbH,Germany,EUR,Industrial,BB,37400000,60,11-07-2019
+C0223,Lakeshore Agri Products Industries Ltd,India,INR,FMCG,CCC,8300000,45,19-10-2016
+C0224,Coastal Textiles S.p.A.,Italy,EUR,Construction,B,10150000,30,27-01-2022
+C0225,Maple Industrial Co. Ltd,Vietnam,USD,Healthcare,AA,117550000,45,01-03-2023
+C0226,Udaya Electricals Enterprises Pvt Ltd,India,INR,Packaging,A,88200000,45,18-01-2021
+C0227,Quantum Electricals Plastics LLP,India,INR,Healthcare,BB,21150000,45,24-03-2023
+C0228,Gateway Auto Components Plastics LLP,india ,INR,Healthcare,BBB,154800000,45,18-05-2017
+C0229,Western Electricals Pte Ltd,Singapore,USD,Industrial,A,"5,20,00,000.00",90,15-04-2016
+C0230,Gateway Industrial Enterprises Pvt Ltd,India,INR,Consumer Goods,BB,19650000,30,09-09-2018
+C0231,Ganga Consumer Goods Polymers Pvt Ltd,India,INR,Consumer Goods,,30250000,30,12-05-2017
+C0232,Pioneer Agri Products BV,Netherlands,EUR,Industrial,A,34000000,90,26-01-2016
+C0233,Baltic Healthcare Polymers Pvt Ltd,India,INR,Construction,BBB,44050000,60,25-10-2022
+C0234,Zephyr Auto Components Enterprises Pvt Ltd,India,INR,Construction,BBB,50700000,60,15-01-2018
+C0235,Elbe Construction SAS,France,EUR,Agri Products,B,4200000,60,18-10-2020
+C0236,Bharat Agri Products S.p.A.,Italy,EUR,Auto Components,B,54850000,60,06-10-2021
+C0237,Udaya Auto Components Enterprises Pvt Ltd,india ,INR,Agri Products,AA,"2,27,00,000",30,03-07-2019
+C0238,Willow Electricals Plastics LLP,India,INR,Electricals,A,200000000,60,16-09-2020
+C0239,Juniper Electricals Plastics LLP,IN,INR,Packaging,B,6050000,45,14-02-2020
+C0240,Danube Auto Components Polymers Pvt Ltd,India,INR,Packaging,BBB,32250000,30,27-08-2017
+C0241,Zephyr Packaging S.p.A.,Italy,EUR,Auto Components,bb ,39100000,60,18-09-2019
+C0242,Northstar Industrial BV,Netherlands,EUR,FMCG,A,88400000,60,21-05-2017
+C0243,Coastal Packaging GmbH,Germany,EUR,Industrial,AA,29700000,60,04-02-2022
+C0244,Gateway Packaging Industries Ltd,india ,INR,Textiles,B,35350000,60,20-11-2016
+C0245,Fjord Healthcare Pte Ltd,Singapore,USD,Packaging,A,27600000,60,25-04-2017
+C0246,Alpine Agri Products Co. Ltd,Vietnam,USD,Industrial,,64400000,60,23-06-2020
+C0247,Redwood Healthcare Co. Ltd,Vietnam,USD,Industrial,BBB,29650000,45,24-04-2018
+C0248,Delta Textiles Co. Ltd,Vietnam,USD,Auto Components,AA,89150000,30,15-06-2018
+C0249,Elbe Textiles S.p.A.,Italy,EUR,Packaging,BB,10250000,90,19-09-2016
+C0250,Lotus Consumer Goods Polymers Pvt Ltd,India,INR,Construction,A,37200000,60,06-04-2016
+C0102,Yamuna Industrial Ltd,Bangladesh,USD,Construction,B,11200000,60,01-10-2019
+C0046,Baltic Packaging Industries Ltd,india ,INR,Auto Components,AA,65000000,Net 30,16-11-2021
+C0167,Zenith Consumer Goods Enterprises Pvt Ltd,IN,INR,Consumer Goods,BBB,9400000,30,21-11-2018
+C0071,Meridian Construction Trading FZE,UAE,USD,Textiles,CCC,9100000,60,22-08-2018
+C0002,Sahyadri Textiles Enterprises Pvt Ltd,India,INR,Packaging,BBB,28950000,45,05-01-2015
+C0143,Orion Construction Enterprises Pvt Ltd,India,INR,Industrial,BB,16250000,30,17-11-2022

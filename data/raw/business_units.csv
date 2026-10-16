@@ -1,0 +1,6 @@
+﻿t,bu_name,primary_product,target_hedge_ratio,hedging_policy,sanctioned_credit_line_inr
+BU01,Packaging Films,Flexible packaging films,0.7,Hedge 60-80% of USD/EUR exports and crude-linked feedstock,1365200000
+BU02,Industrial Resins,Commodity and industrial resins,0.2,Hedge 20% of crude-linked feedstock; exports left open,415500000
+BU03,Specialty Chemicals,Specialty chemicals for export,0.5,Hedge about 50% of EUR/USD exports,490600000
+BU04,Consumer Plastics,Domestic consumer plastics,0.5,Hedge about 50% of feedstock; mainly INR sales,617700000
+BU05,Engineering Compounds,Engineering plastic compounds,0.35,Hedge 30-40% of feedstock and exports,423500000
