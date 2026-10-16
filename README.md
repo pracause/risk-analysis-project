@@ -70,6 +70,12 @@ A `risk\_db` database with six tables, primary and foreign keys, and typed colum
 4. A minimum hedging policy for crude oil and euro receivables.
 5. Fix invalid credit limits and monitor cash cover monthly.
 
+## Overview
+
+(dashboard/overview_01.png)
+
+(dashboard/overview_02.png)
+
 ## Repository
 
 ```
